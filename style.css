@@ -94,7 +94,7 @@ img {
    }
   #lezioni .row img {
     height: auto;
-    max-width: 30%;
+    max-width: 20%;
 
   }
   #lezioni .row>.left, 
@@ -107,7 +107,7 @@ img {
   #steps .row img{
     height: auto;
     margin: 0 auto;
-    max-width: 30%;
+    max-width: 20%;
   }
 
   #steps .row>.left, #steps .row>.central, #steps .row>.right{
