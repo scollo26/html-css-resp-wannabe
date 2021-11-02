@@ -72,6 +72,7 @@ img {
   clear: both;
 }
 
+/* mobile */
 
 @media screen and (max-width: 420px) {
   body{
